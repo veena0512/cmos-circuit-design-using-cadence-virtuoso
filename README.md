@@ -6,12 +6,11 @@ This project demonstrates the design and simulation of CMOS inverter circuits us
 ## Features
 - CMOS inverter schematic design
 - Transient waveform analysis
-- Power and delay analysis
 - Layout design
 
 ## Tools Used
 - Cadence Virtuoso
-- Cadence ADE
+- Cadence genus
 
 ## Results
 The inverter circuit was successfully simulated and analyzed for switching characteristics and propagation delay.
